@@ -1,6 +1,6 @@
 # City-Crime-Data
 
-* Github URL:
+* Github URL:https://github.com/joy-hui/City-Crime-Data
 * Deployed Site: 
 * Presentation: [PDF File](./assets/presentation.pdf)
 
